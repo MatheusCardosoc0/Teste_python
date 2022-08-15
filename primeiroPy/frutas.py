@@ -14,4 +14,4 @@ if (fruta == 1 or fruta == 2 or fruta == 3):
     finalValue = preco * Quantidade
     print("Você deve pagar R$%.2f" % (finalValue))
 else:
-  print('valor inexistente')
+    print('valor inexistente')

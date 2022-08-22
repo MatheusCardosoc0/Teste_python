@@ -21,3 +21,8 @@ z = x
 z.append('gorila')
 print(z)
 print(x)
+
+print(x[1][0])
+
+for i in x:
+    print(i, end=' e ')
